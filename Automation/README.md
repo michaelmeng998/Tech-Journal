@@ -1,4 +1,4 @@
-# Test Automation :robot:
+# Automation :robot:
 
 ### This section will discuss Automation Concepts ranging from processes, tests, builds, and more!
 
