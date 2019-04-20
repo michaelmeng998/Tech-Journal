@@ -1,4 +1,4 @@
-#  :fast_forward: Welcome to my Tech-Journal!!! :fast_forward: 
+#  :fast_forward: Welcome to our Tech-Journal!!! :fast_forward: 
 
 This is a git repo where I am going to be posting **information on a vast amount of tech in industry and research**
 
