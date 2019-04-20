@@ -1,2 +1,0 @@
-# Dyanmic Programming - Matrix Multiplication
-
