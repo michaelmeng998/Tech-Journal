@@ -1,4 +1,12 @@
 #  :fast_forward: Welcome to our Tech-Journal!!! :fast_forward: 
+<p align="center">
+    <img src="https://img.shields.io/github/commit-activity/y/ethanalee/Tech-Journal.svg?color=green">
+    <img src="https://img.shields.io/badge/status-stable-brightgreen.svg">
+    <img src="https://img.shields.io/github/contributors/ethanalee/Tech-Journal.svg">
+    <img src="https://img.shields.io/github/last-commit/ethanalee/Tech-Journal.svg?color=purple">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ethanalee/Tech-Journal.svg?color=orange">
+</p>
+
 
 This is a git repo where I am going to be posting **information on a vast amount of tech in industry and research**
 
