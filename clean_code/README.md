@@ -4,4 +4,4 @@
 
 :arrow_down:Here are a few articles and books below to get you started :arrow_down: !
 
-[Clean Code Book](https://www.academia.edu/40185800/Clean_Code_A_Handbook_of_Agile_Software_Craftsmanship_by_Robert_C._Martin)
+[Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin](https://www.academia.edu/40185800/Clean_Code_A_Handbook_of_Agile_Software_Craftsmanship_by_Robert_C._Martin)
